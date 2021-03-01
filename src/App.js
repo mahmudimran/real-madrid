@@ -5,13 +5,11 @@ import Player from './components/Player/Player';
 import Cart from './components/Cart/Cart';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-
 function App() {
   const [players,setPlayers] = useState([])
   const [cartPlayer, setCartPlayer] = useState([])
   useEffect(()=>{
     setPlayers(realMadrid)
-    console.log(realMadrid);
   },[])
   const handleAddPlayer=(player)=>{
     const newCartPlayer = [...cartPlayer,player]
@@ -19,8 +17,7 @@ function App() {
   }
   return (
     <div className="App">
-      <h3>Real Madrid Club Footbal Player</h3>
-      <h4>Player Added :{cartPlayer.length}</h4>
+      <h3>Real Madrid Footbal Club Player</h3>
       <Cart cartPlayer= {cartPlayer}></Cart>
     
       {
