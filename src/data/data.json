@@ -12,7 +12,7 @@
     "gender": "Male",
    "salary":2345,
    "place" :"Krasnograd (Ukraine)",
-  "img":"https://www.realmadrid.com/img/vertical_380px/lunin_380x501_20201203095858.jpg",
+   "img":"https://www.realmadrid.com/img/vertical_380px/lunin_380x501_20201203095858.jpg",
     "position": "Goalkeeper"
   }, {
 
@@ -20,8 +20,8 @@
     "email": "ramos@gizmodo.com",
     "gender": "Male",
     "salary":3345,
-   "place" :"Leganés (Madrid)",
-   "img":"https://www.realmadrid.com/img/vertical_380px/carvajal_380x501_20201203095829.jpg",
+    "place" :"Leganés (Madrid)",
+    "img":"https://www.realmadrid.com/img/vertical_380px/carvajal_380x501_20201203095829.jpg",
     "position": "Defender"
   }, {
     "name": "Éder Gabriel Militão",
