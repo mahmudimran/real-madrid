@@ -1,0 +1,124 @@
+[{   
+    "name": "Thibaut Courtois",
+    "email": "courtois0@va.gov",
+    "gender": "Male",
+    "salary":5545,
+    "place" :"Bree (Belgium)",
+    "img":"https://www.realmadrid.com/img/vertical_380px/courtois_380x501_20201203095853.jpg",
+    "position": "Goalkeeper"
+  }, {
+    "name": "Andriy Lunin",
+    "email": "lunin1@gizmodo.com",
+    "gender": "Male",
+   "salary":2345,
+   "place" :"Krasnograd (Ukraine)",
+  "img":"https://www.realmadrid.com/img/vertical_380px/lunin_380x501_20201203095858.jpg",
+    "position": "Goalkeeper"
+  }, {
+
+    "name": "Daniel Carvajal Ramos",
+    "email": "ramos@gizmodo.com",
+    "gender": "Male",
+    "salary":3345,
+   "place" :"Leganés (Madrid)",
+   "img":"https://www.realmadrid.com/img/vertical_380px/carvajal_380x501_20201203095829.jpg",
+    "position": "Defender"
+  }, {
+    "name": "Éder Gabriel Militão",
+    "email": "eder@gizmodo.com",
+    "gender": "Male",
+     "salary":2535,
+     "place" :"Sertãozinho (Brazil)",
+  "img":"https://www.realmadrid.com/img/vertical_380px/militao_380x501_20201203095858.jpg",
+      "position": "Defender"
+  }, {
+    "name": "Sergio Ramos García",
+    "email": "sergio@gizmodo.com",
+    "gender": "Male",
+    "img":"https://www.realmadrid.com/img/vertical_380px/ramos_380x501_20201203095830.jpg",
+     "salary":5545,
+     "place" :"Camas (Sevilla, Spain)",
+    "position": "Defender"
+  }, {
+
+    "name": "Raphaël Varane",
+    "email": "varane@gizmodo.com",
+    "gender": "Male",
+     "salary":2175,
+     "place" :"Bree (Belgium)",
+  "img":"https://www.realmadrid.com/img/vertical_380px/varane_380x501_20201203095831.jpg",
+    "position": "Defender"
+  }, {
+    "name": "José I. Fernández Iglesias",
+    "email": "jose@gizmodo.com",
+    "gender": "Male",
+    "place" :"Madrid",
+  "img":"https://www.realmadrid.com/img/vertical_380px/nacho_380x501_20201203095831.jpg",
+    "salary":2745,
+    "position": "Defender"
+  }, {
+    "name": "Marcelo Vieira da Silva",
+    "email": "silva@gizmodo.com",
+    "gender": "Male",
+    "salary":4345,
+    "place" :"Río de Janeiro (Brazil)",
+  "img":"https://www.realmadrid.com/img/vertical_380px/marcelo_380x501_20201203095832.jpg",
+    "position": "Defender"
+  }, {
+    "name": "Álvaro Odriozola",
+    "email": "alvaro@gizmodo.com",
+    "gender": "Male",
+    "salary":1375,
+    "place" :"San Sebastián",
+  "img":"https://www.realmadrid.com/img/vertical_380px/odriozola_380x501_20201203095852.jpg",
+    "position": "Defender"
+  }, {
+    "name": "Ferland Mendy",
+    "email": "menday@gizmodo.com",
+    "gender": "Male",
+    "place" :"Meulan-en-Yvelines (France)",
+    "img":"https://www.realmadrid.com/img/vertical_380px/mendy_380x501_20201203095856.jpg",
+     "salary":3354,
+    "position": "Defender"
+  }, {
+
+    "name": "Toni Kroos",
+    "email": "toni@gizmodo.com",
+    "gender": "Male",
+    "salary":2233,
+    "place" :"Greifswald (Germany)",
+    "img":"https://www.realmadrid.com/img/vertical_380px/kroos_380x501_20201203095832.jpg",
+    "position": "Midfielder"
+  }, {
+    "name": "Luka Modric",
+    "email": "luka@gizmodo.com",
+    "gender": "Male",
+    "salary":2685,
+    "place" :"Zadar (Croatia)",
+    "img":"https://www.realmadrid.com/img/vertical_380px/courtois_380x501_20201203095853.jpg",
+    "position": "Midfielder"
+  }, {
+    "name": "Carlos Henrique Casimiro",
+    "email": "carlos@gizmodo.com",
+    "gender": "Male",
+    "place" :"Bree (Belgium)",
+    "img":"https://www.realmadrid.com/img/vertical_380px/casemiro_380x501_20201203095834.jpg",
+     "salary":5534,
+    "position": "Midfielder"
+  }, {
+    "name": "Marco Asensio Willemsen",
+    "email": "marco@gizmodo.com",
+    "gender": "Male",
+     "salary":3345,
+     "place" :"Palma de Mallorca",
+    "img":"https://www.realmadrid.com/img/vertical_380px/courtois_380x501_20201203095853.jpg",
+    "position": "Forward"
+  }, {
+    "name": "Eden Hazard",
+    "email": "eden@gizmodo.com",
+    "gender": "Male",
+    "place" :"La Louvière (Belgium)",
+    "img":"https://www.realmadrid.com/img/vertical_380px/hazard_380x501_20201203095855.jpg",
+     "salary":2345,
+    "position": "Forward"
+  }]

@@ -1,0 +1,28 @@
+.players img{
+    height: 300px;
+    margin-bottom: 10px;
+}
+.players{
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    text-align: center;
+    font-size: 17px;
+    cursor: pointer;
+    background-color: #3F76B0;
+}
+.iteam-player{
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2);
+    text-align: center;
+    background-color: #f1f1f1;
+    padding: 12px;
+    border-radius: 5px;
+
+}
+@media screen and (max-width: 600px) {
+    .players {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+  }
