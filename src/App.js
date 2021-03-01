@@ -17,7 +17,7 @@ function App() {
   }
   return (
     <div className="App">
-      <h3>Real Madrid Footbal Club Player</h3>
+      <h3>Real Madrid Football Club</h3>
       <Cart cartPlayer= {cartPlayer}></Cart>
     
       {
